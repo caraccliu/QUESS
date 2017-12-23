@@ -1,0 +1,15 @@
+
+#usage ./dl_miseq.sh <out_dir>
+
+#HiSeq datasets
+
+./dl_fastq.sh ${1} SRR5226582 NC_007795.1 2821361
+./dl_fastq.sh ${1} SRR5029830 NC_004337.2 4828820
+./dl_fastq.sh ${1} ERR1764059 NC_003098.1 2038615
+./dl_fastq.sh ${1} SRR5177719 NC_000913.3 4641652
+./dl_fastq.sh ${1} SRR4451711 NC_017279.1 1635045
+./dl_fastq.sh ${1} ERR1904924 NC_003070.9 119667750
+./dl_fastq.sh ${1} ERR294487 NC_003279.8 100286401
+./dl_fastq.sh ${1} SRR3939099 NC_004354.4 143726002
+./dl_fastq.sh ${1} SRR5408851 NC_000001.1 3238442024
+./dl_fastq.sh ${1} DRR082909 NC_000067.6 2807715301
